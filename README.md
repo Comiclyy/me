@@ -1,2 +1,5 @@
-# me
-My roadmap, notes and such
+# My roadmap, notes and such
+
+Ideas:
+
+[Rosepine](rosepinetheme.com) x [Dracula](https://draculatheme.com)
