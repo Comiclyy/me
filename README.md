@@ -2,4 +2,4 @@
 
 Ideas:
 
-[Rosepine](rosepinetheme.com) x [Dracula](https://draculatheme.com)
+[Rosepine](rosepinetheme.com) x [Dracula](https://draculatheme.com) color sheme
